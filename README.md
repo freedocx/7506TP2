@@ -5,3 +5,5 @@ TROCAFONE - ANALISIS EXPLORATORIO.pdf
 
 Predicción de compras por parte de usuarios en un re-commerce
 TROCAFONE - PREDICCION.pdf
+
+Los datos provistos no se publican, solo los analisis resultantes, por pedido de la empresa.
